@@ -9,7 +9,7 @@ Estudiante de Informática en **Prometeo by The Power** (Grado Medio SMR), con m
 - Cursando **Grado Medio SMR** (Sistemas Microinformáticos y Redes)
 - Apasionado de la **Ciberseguridad** y la resolución de incidencias técnicas
 - Interesado en **redes, sistemas operativos y administración de equipos**
-- Estudiando **inglés B2** en la EOI El Espinillo (Madrid)
+- Estudiando **inglés B2** en la EOI El Espinillo (Madrid) ![Bandera de Inglaterra](https://wikimedia.org)
 - Con ganas de seguir formándome en **ASIR** cuando termine el grado medio
 ---
  
