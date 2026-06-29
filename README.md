@@ -1,6 +1,6 @@
 # Hola, soy David Tío
  
-Estudiante de Informática en **Prometeo by The Power** (Grado Medio SMR), con mucha curiosidad por el mundo de las **redes** y la **ciberseguridad**. Me gusta entender cómo funcionan los sistemas por dentro y cómo protegerlos.
+Estudiante de Informática en **Prometeo by The Power** (Grado Medio SMR), con mucha curiosidad sobre el mundo de las **redes** y la **ciberseguridad**. Me gusta entender cómo funcionan los sistemas por dentro y cómo protegerlos.
  
 ---
  
