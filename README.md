@@ -15,7 +15,7 @@ Estudiante de Informática en **Prometeo by The Power** (Grado Medio SMR), con m
  
 ## Herramientas que manejo
  
-[![My Skills](https://skillicons.dev/icons?i=linux,kali,windows,github,git,python,powershell,vscode,notion,bash,wireshark&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,kali,windows,github,git,python,powershell,vscode,notion,bash,wireshark&theme=dark)](https://skillicons.dev)
  
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
